@@ -1,0 +1,7 @@
+http://youtube.com
+http://facebook.com
+http://google.com
+http://github.com
+http://twitter.com
+http://www.instagram.com
+http://mail.google.com
